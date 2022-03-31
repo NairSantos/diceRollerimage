@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerImage</string>
+    <string name="diceRoller">DiceRoller</string>
+    <string name="btnRoll">Roll</string>
+</resources>
